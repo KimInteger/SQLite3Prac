@@ -1,0 +1,11 @@
+{
+  "name": "sqlite3prac",
+  "version": "1.0.0",
+  "description": "\"sqplite3prac\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KimInteger",
+  "license": "MIT"
+}
